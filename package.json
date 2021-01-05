@@ -16,7 +16,7 @@
     "amfe-flexible": "^2.2.1",
     "echarts": "^4.5.0",
     "@tinymce/tinymce-vue": "^3.0.1",
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "dayjs": "^1.8.17",
     "element-ui": "^2.12.0",
     "lodash": "^4.17.15",
